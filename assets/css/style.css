@@ -447,7 +447,7 @@ body {
     background: var(--bg-color) !important;
 }
 #category .owl-carousel .owl-stage-outer {
-
+    text-align: center;
 	padding-top: 20px;
 }
 /*--------------- category part end ------------------*/
