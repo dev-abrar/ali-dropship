@@ -458,7 +458,7 @@ body {
   margin-top: 60px;
   margin-bottom: 100px;
 }
-.product_img .cross_wish{
+.wish_box .cross_wish{
  opacity: 0;
  transition: all linear .3s;
  -webkit-transition: all linear .3s;
@@ -467,7 +467,7 @@ body {
  -o-transition: all linear .3s;
 }
 
-.product_img:hover .cross_wish{
+.wish_box:hover .cross_wish{
  opacity: 1;
 }
 
